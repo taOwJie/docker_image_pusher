@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #开始
 mysql:5.7.28
+apache/dolphinscheduler-standalone-server:3.2.1
