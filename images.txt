@@ -7,3 +7,4 @@
 #开始
 mysql:5.7.28
 apache/dolphinscheduler-standalone-server:3.2.1
+plugins/volume-cache:linux-arm64
