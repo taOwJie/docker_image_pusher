@@ -17,3 +17,4 @@ minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.3.3
 tdengine/tdengine:3.3.2.0
 zilliz/attu:latest
+--platform=linux/arm64 bitnami/mysql:5.7.43
