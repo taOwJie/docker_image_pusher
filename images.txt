@@ -21,4 +21,4 @@
 #ollama/ollama:0.3.12
 #kubernetesui/dashboard:v2.0.5
 #kubernetesui/metrics-scraper:v1.0.6
-k8s.gcr.io/metrics-server-amd64/metrics-server-amd64:v0.3.6
+k8s.gcr.io/metrics-server-amd64:v0.3.6
