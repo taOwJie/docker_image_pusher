@@ -23,11 +23,12 @@
 #kubernetesui/metrics-scraper:v1.0.6
 #k8s.gcr.io/metrics-server-amd64:v0.3.6
 #ollama/ollama:0.5.4
-jitsi/web:stable-9955
-jitsi/prosody:stable-9955
-jitsi/jicofo:stable-9955
-jitsi/jvb:stable-9955
---platform=linux/arm64 jitsi/web:stable-9955
---platform=linux/arm64 jitsi/prosody:stable-9955
---platform=linux/arm64 jitsi/jicofo:stable-9955
---platform=linux/arm64 jitsi/jvb:stable-9955
+#jitsi/web:stable-9955
+#jitsi/prosody:stable-9955
+#jitsi/jicofo:stable-9955
+#jitsi/jvb:stable-9955
+#--platform=linux/arm64 jitsi/web:stable-9955
+#--platform=linux/arm64 jitsi/prosody:stable-9955
+#--platform=linux/arm64 jitsi/jicofo:stable-9955
+#--platform=linux/arm64 jitsi/jvb:stable-9955
+nginx:1.27.3-perl
