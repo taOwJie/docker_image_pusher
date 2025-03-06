@@ -32,4 +32,5 @@
 #--platform=linux/arm64 jitsi/jicofo:stable-9955
 #--platform=linux/arm64 jitsi/jvb:stable-9955
 #nginx:1.27.3-perl
-onlyoffice/documentserver:7.1.1
+#onlyoffice/documentserver:7.1.1
+1panel/maxkb:v1.10.2-lts
