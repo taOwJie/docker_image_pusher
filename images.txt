@@ -33,4 +33,5 @@
 #--platform=linux/arm64 jitsi/jvb:stable-9955
 #nginx:1.27.3-perl
 #onlyoffice/documentserver:7.1.1
-1panel/maxkb:v1.10.2-lts
+#1panel/maxkb:v1.10.2-lts
+node:22.16.0
