@@ -35,11 +35,12 @@
 #onlyoffice/documentserver:7.1.1
 #1panel/maxkb:v1.10.2-lts
 #node:22.16.0
-jitsi/web:stable-10133
-jitsi/prosody:stable-10133
-jitsi/jicofo:stable-10133
-jitsi/jvb:stable-10133
---platform=linux/arm64 jitsi/web:stable-10133
---platform=linux/arm64 jitsi/prosody:stable-10133
---platform=linux/arm64 jitsi/jicofo:stable-10133
---platform=linux/arm64 jitsi/jvb:stable-10133
+#jitsi/web:stable-10133
+#jitsi/prosody:stable-10133
+#jitsi/jicofo:stable-10133
+#jitsi/jvb:stable-10133
+#--platform=linux/arm64 jitsi/web:stable-10133
+#--platform=linux/arm64 jitsi/prosody:stable-10133
+#--platform=linux/arm64 jitsi/jicofo:stable-10133
+#--platform=linux/arm64 jitsi/jvb:stable-10133
+--platform=linux/arm64 node:22.17.0-slim
